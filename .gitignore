@@ -1,0 +1,3 @@
+> .gitignore
+git add .gitignore
+git commit -m "message" .gitignore
